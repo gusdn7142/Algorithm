@@ -1,12 +1,11 @@
+import java.io.IOException;
 import java.util.Scanner;
 
 
 
 public class Main {
 
-    public static void main(String[] args) {
-
-
+    public static void main(String[] args) throws IOException {
 
         //입력 설정
         Scanner scan = new Scanner(System.in);
@@ -17,45 +16,31 @@ public class Main {
         //테스트 케이스 T 입력
         int T = scan.nextInt();
 
+        //d[11] 배열 생성
+        int d[] = new int[11];  //n의 최대 크기는 10이기 때문에 11
 
-        //T만큼 반복
+
+
+        d[1] = 1;  //1을 만드는 경우의 수 : 1가지
+        d[2] = 2;  //2를 만드는 경우의 수: 1가지
+        d[3] = 4;  //3을 만드는 경우의 수 : 4가지
+
         while(T-->0) {
 
             //정수 n 입력
             int n = scan.nextInt();
 
-            int result = brute(n,0);
+            for (int i = 4; i <= n; i++) {   //3부터 n까지 반복
 
-            sb.append(result).append("\n");
+                d[i] = d[i - 1] + d[i - 2] + d[i - 3];   //점화식 적용
+            }
 
-
+            sb.append(d[n]).append("\n");
         }
+
 
         System.out.println(sb);
 
-    }
-
-
-
-    public static int brute(int n, int sum){
-
-
-        //sum이 n보다 클떄
-        if(n < sum){
-            return 0;
-        }
-
-        //sum과 n이 같으면
-        if(n == sum){
-            return 1;
-        }
-
-        //현재의 재귀 함수 상태에서 이후에 가능한 경우의 수를 모두 구한 뒤 반환!
-        int ans = 0;
-        for(int i=1; i <= 3; i++){
-            ans += brute(n,sum+i);
-        }
-        return ans;
 
     }
 
