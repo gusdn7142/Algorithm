@@ -1,0 +1,214 @@
+[33mcommit 12e8c77f8e16b6265233ed79bce4ff3fcee959c5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Fri Jul 1 11:57:54 2022 +0900
+
+    [Bronze II] Title: 단어의 개수
+
+[33mcommit 9854acdc4d089caf22afa98d33e93725b9003d85[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Thu Jun 30 11:38:56 2022 +0900
+
+    [Silver III] Title: 1, 2, 3 더하기
+
+[33mcommit ed2cb24aee01a6dbb831ea481a129477a2366464[m
+Merge: b04d3a3 d53624e
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Thu Jun 30 11:37:40 2022 +0900
+
+    Merge branch 'main' of https://github.com/gusdn7142/Algorithm
+
+[33mcommit b04d3a39200868567c2f0a6ba149ab644a0eb161[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Thu Jun 30 11:37:03 2022 +0900
+
+    [Silver III] Title: 1, 2, 3 더하기
+    
+    :wq
+
+[33mcommit d53624e747a82df5ca6596b4c4b6666abdaeaeca[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Thu Jun 30 11:33:05 2022 +0900
+
+    [Silver III] Title: 1, 2, 3 더하기, Time: 208 ms, Memory: 17636 KB -BaekjoonHub
+
+[33mcommit a5558553a07da97c8c25a47b7626dc7edcb15a39[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Wed Jun 29 13:24:23 2022 +0900
+
+    [Silver I] Title: 카잉 달력, Time: 584 ms, Memory: 25828 KB -BaekjoonHub
+
+[33mcommit f00b889958637c500d46fcb0ec48c5bfa73ddfc8[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Tue Jun 28 14:33:39 2022 +0900
+
+    [Gold V] Title: 테트로미노, Time: 1208 ms, Memory: 180184 KB -BaekjoonHub
+
+[33mcommit 1e7bcdf5722b6e3da0fc22d07dbfdf90deaf29ca[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Mon Jun 27 11:53:12 2022 +0900
+
+    [Bronze I] Title: 최대공약수와 최소공배수
+    
+    gcd() 함수 구현
+
+[33mcommit 030eeed13cbe95efdaa66b48c9fbd54bfc053b5f[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Sat Jun 25 22:55:17 2022 +0900
+
+    Silver IV] Title: 스택
+    
+    Stack 클래스 활용
+
+[33mcommit 676684e2b352a811fc2977b76eefe3a478b7321a[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Thu Jun 23 04:47:29 2022 +0900
+
+    [Silver IV] Title: 수 이어 쓰기 1, Time: 280 ms, Memory: 17720 KB -BaekjoonHub
+
+[33mcommit 529ec4b77a2f3fe60aead770dcaa8d603f989abc[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Wed Jun 22 07:22:30 2022 +0900
+
+    [Silver V] Title: 날짜 계산, Time: 208 ms, Memory: 17644 KB -BaekjoonHub
+
+[33mcommit 8e55e2294bf1bcc40fee07a6db655762fa28b898[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Tue Jun 21 13:47:02 2022 +0900
+
+    [Bronze I] Title: 일곱 난쟁이, Time: 204 ms, Memory: 17812 KB -BaekjoonHub
+
+[33mcommit cf00a3363ec91ef4b30c472af1e8532731d7ae87[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sun Jun 19 14:11:23 2022 +0900
+
+    [Silver II] Title: 연속합, Time: 812 ms, Memory: 109148 KB -BaekjoonHub
+
+[33mcommit 41b1bccc0c9132e74c80ab117525442f4417535f[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sat Jun 18 14:44:09 2022 +0900
+
+    [Silver II] Title: 가장 긴 증가하는 부분 수열, Time: 304 ms, Memory: 21152 KB -BaekjoonHub
+
+[33mcommit 5c74015bf65673f6b6b0d878a66497c292c2b1b0[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Fri Jun 17 15:14:43 2022 +0900
+
+    [Silver III] Title: 이친수, Time: 208 ms, Memory: 17744 KB -BaekjoonHub
+
+[33mcommit d1a97f3d755e1bc2f80ef694d85e9f7523e65f2b[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Thu Jun 16 12:38:34 2022 +0900
+
+    [Silver I] Title: 쉬운 계단 수, Time: 224 ms, Memory: 17756 KB -BaekjoonHub
+
+[33mcommit 9a8a2474aaf6054cb8834f94ab4668ab957b130b[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Wed Jun 15 12:26:40 2022 +0900
+
+    [Silver II] Title: 1, 2, 3 더하기 5, Time: 824 ms, Memory: 19740 KB -BaekjoonHub
+
+[33mcommit 631974030521c061fbac6eba7e68774220ae7c7a[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sun Jun 12 14:18:48 2022 +0900
+
+    [Silver I] Title: 카드 구매하기, Time: 296 ms, Memory: 20976 KB -BaekjoonHub
+
+[33mcommit 094b74e69be0f79c36911931d44ce36823a2510c[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sun Jun 12 12:01:28 2022 +0900
+
+    [Silver III] Title: 1, 2, 3 더하기, Time: 212 ms, Memory: 17680 KB -BaekjoonHub
+
+[33mcommit 1bc105aa1214b424624f2fe2b0c8d65d98d2d1e0[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sat Jun 11 18:14:30 2022 +0900
+
+    [Silver III] Title: 2×n 타일링 2, Time: 212 ms, Memory: 17788 KB -BaekjoonHub
+
+[33mcommit 65711ae612599a04aec181be0a6c453b99dedff8[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sat Jun 11 17:23:06 2022 +0900
+
+    [Silver III] Title: 2×n 타일링, Time: 212 ms, Memory: 17804 KB -BaekjoonHub
+
+[33mcommit ae022318b96bafab9f35f195c9f35bf9d092af99[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Sat Jun 11 16:41:33 2022 +0900
+
+    [Silver III] Title: 1로 만들기, Time: 224 ms, Memory: 21600 KB -BaekjoonHub
+
+[33mcommit 9bb655386422b470ae039cf9741be1ab07642c48[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Tue Jun 7 23:15:07 2022 +0900
+
+    [Bronze II] Title: 피보나치 수, Time: 204 ms, Memory: 17740 KB -BaekjoonHub
+
+[33mcommit 845adce24eb44f6c8232eabf1c7ef8a74b996105[m
+Merge: e44f1f5 df859b0
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Tue Jun 7 00:33:28 2022 +0900
+
+    Merge branch 'main' of https://github.com/gusdn7142/Algorithm
+
+[33mcommit e44f1f5d3f93bbf340a32030884c9e3b4e2db9e4[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Tue Jun 7 00:32:59 2022 +0900
+
+    [Bronze III] Title: 팩토리얼 / Java
+
+[33mcommit df859b05107a4887ae43adb7b425988444da3e69[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Mon Jun 6 23:35:49 2022 +0900
+
+    [Bronze I] Title: 최소공배수, Time: 276 ms, Memory: 19652 KB -BaekjoonHub
+
+[33mcommit 556b05ba71c0cfa31f799cca71914376b1b1e02b[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Mon Jun 6 22:50:44 2022 +0900
+
+    [Bronze I] Title: 최대공약수와 최소공배수, Time: 208 ms, Memory: 17744 KB -BaekjoonHub
+
+[33mcommit 4fb89d1fceb2c70c911b32a98b8ea91c3727c69b[m
+Author: gusdn7142 <gusdnchl7144@naver.com>
+Date:   Mon Jun 6 12:32:29 2022 +0900
+
+    [Bronze II] Title: 나머지 / Java
+
+[33mcommit fdd1e666b10395f1b495c9d55cb7b58b7b460e32[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Mon Jun 6 00:19:12 2022 +0900
+
+    [Silver IV] Title: 덱, Time: 220 ms, Memory: 19400 KB -BaekjoonHub
+
+[33mcommit 21d562eb66117d762944c0b541de9a2a194de397[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Mon Jun 6 00:03:02 2022 +0900
+
+    [Silver IV] Title: 요세푸스 문제, Time: 684 ms, Memory: 298660 KB -BaekjoonHub
+
+[33mcommit 93186fe17d756102b2dd3c7f153d08abbd103897[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Fri Jun 3 10:42:28 2022 +0900
+
+    [Silver III] Title: 단어 뒤집기 2, Time: 208 ms, Memory: 17628 KB -BaekjoonHub
+
+[33mcommit eed3bbe641da9ab7e1acd44f6bc49fa2195523da[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Thu Jun 2 10:23:08 2022 +0900
+
+    [Silver IV] Title: 큐, Time: 376 ms, Memory: 28344 KB -BaekjoonHub
+
+[33mcommit cb2b41d6e665637f323d20511388fcb5065b7e39[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Wed Jun 1 23:44:26 2022 +0900
+
+    [Silver III] Title: 스택 수열, Time: 1004 ms, Memory: 105460 KB -BaekjoonHub
+
+[33mcommit 73d0df15db38bbd21fd52cab3a7a04c0d84c9e7a[m
+Author: Hyunwoo Choi <62496215+gusdn7142@users.noreply.github.com>
+Date:   Wed Jun 1 12:25:05 2022 +0900
+
+    [Silver IV] Title: 괄호, Time: 232 ms, Memory: 17844 KB -BaekjoonHub
+
+[33mcommit 294aa1eae3ae9c35933989e05f222fff57c91838[m
+Author: Hy
