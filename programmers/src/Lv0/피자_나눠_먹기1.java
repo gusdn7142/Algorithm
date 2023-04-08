@@ -1,6 +1,6 @@
 package Lv0;
 
-public class 피자_나눠_먹기_v1 {
+public class 피자_나눠_먹기1 {
     public int solution(int n) {
         int result = -1;
 
