@@ -1,4 +1,4 @@
-package Review.Array;
+package Review.String;
 
 import java.util.Scanner;
 
