@@ -1,4 +1,4 @@
-package Review.String;
+package Review.Stack;
 
 import java.util.Scanner;
 
