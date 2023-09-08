@@ -1,4 +1,4 @@
-package Review.DFS;
+package Review.DFS_BFS;
 
 import java.util.*;
 
