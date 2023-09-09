@@ -65,10 +65,10 @@ public class 미로_찾기_v1 {
     static void BFS(){
         //BFS로 그래프를 순회하면서 (n-1,0) 정점부터 마지막 정점(0,m-1)까지의 최단거리를 구하는  메서드
 
-        Queue<Pair> queue = new LinkedList<>();   //큐 생성
+        Queue<Pair2> queue = new LinkedList<>();   //큐 생성
         boolean visited[][] = new boolean[MAX][MAX];           //정점 방문 체크
 
-        queue.add(new Pair(n-1,0));  //(시작 y좌표, 시작 x좌표)를 큐에 삽입
+        queue.add(new Pair2(n-1,0));  //(시작 y좌표, 시작 x좌표)를 큐에 삽입
         visited[n-1][0] = true;      //시작 좌표 방문 처리
         //cnt=0;                   //마지막 정점까지의 거리를 기록하는 변수
 
@@ -90,7 +90,7 @@ public class 미로_찾기_v1 {
                 int ncol = col + dx[j];     //이동할 X좌표 값
 
                 if(nrow < n && nrow >= 0 && ncol < m && ncol >=0 && arr[nrow][ncol]==0 && visited[nrow][ncol]==false){
-                    queue.add(new Pair(nrow,ncol));   //(nrow,ncol) 정점을 큐에 삽입
+                    queue.add(new Pair2(nrow,ncol));   //(nrow,ncol) 정점을 큐에 삽입
                     dist[nrow][ncol] = dist[row][col]+1;
                     visited[nrow][ncol]=true;   //(nrow,ncol) 정점에 대한 방문처리
                 }
