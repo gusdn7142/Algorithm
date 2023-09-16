@@ -25,7 +25,7 @@ public class 영어_끝말잇기_v1 {
 
             chEnd = words[i].charAt(words[i].length() - 1);    //첫 단어의 마지막 글자 갱신
         }
-        
+
         return result;
     }
 }
