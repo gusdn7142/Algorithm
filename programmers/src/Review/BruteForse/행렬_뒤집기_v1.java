@@ -1,5 +1,7 @@
 package Review.BruteForse;
 
+import java.util.Scanner;
+
 public class 행렬_뒤집기_v1 {
     public static void main(String[] args){
 
